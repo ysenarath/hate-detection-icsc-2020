@@ -1,0 +1,9 @@
+tqdm
+numpy
+nltk
+torch
+scikit-learn
+gensim
+pandas
+h5py
+wordfreq

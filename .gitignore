@@ -1,0 +1,4 @@
+/.idea/
+/output/*
+/scripts/hatebase_api/en_vocab.json
+!.gitkeep

@@ -1,0 +1,3 @@
+[submodule "lib/textkit-learn"]
+	path = lib/textkit-learn
+	url = https://git.gmu.edu/ywijesu/textkit-learn.git
